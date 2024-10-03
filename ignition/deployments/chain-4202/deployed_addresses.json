@@ -4,5 +4,6 @@
   "AreaCalculatorModule#AreaCalculator": "0x85E0694A249af955546FC14eC5316Eb39Ea39c3C",
   "SaveERC20Module#SaveERC20": "0x726f26136C2561dD2837A63dbD00E99b8f96B521",
   "CrowdfundModule#Crowdfunding": "0x7D7508Adb298f8811b84693f19C58373886cED31",
-  "MultisigModule#Multisig": "0x9031a7dB0076B5f467165Df4bD249f26b99fE0f2"
+  "MultisigModule#Multisig": "0x9031a7dB0076B5f467165Df4bD249f26b99fE0f2",
+  "MarketplaceNFTModule#MarketplaceNFT": "0xB4f562a85b7F9cCF9F8bC0fdB708eC8F7a759381"
 }
