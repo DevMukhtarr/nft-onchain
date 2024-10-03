@@ -7,5 +7,6 @@
   "MultisigModule#Multisig": "0x9031a7dB0076B5f467165Df4bD249f26b99fE0f2",
   "MarketplaceNFTModule#MarketplaceNFT": "0xB4f562a85b7F9cCF9F8bC0fdB708eC8F7a759381",
   "NftmarketplaceModule#NftMarketplace": "0x359A4b4D35b0D8b2556104101855958502F53a81",
-  "DiceModule#Dice": "0x3060a3Ed946bFe9A2B3A17Cd68FA542A58fc9282"
+  "DiceModule#Dice": "0x3060a3Ed946bFe9A2B3A17Cd68FA542A58fc9282",
+  "OrderBasedSwapModule#OrderBasedSwap": "0x5Ff8e6829e65fa08bccDeC5c606cCF1d210aaF38"
 }
