@@ -1,4 +1,5 @@
 {
   "MarketplaceNFTModule#MarketplaceNFT": "0xC2B00F74915A797DD89E10556C073b0c7bafEf00",
-  "HelloModule#Hello": "0xEa07901e989D47D2D2B97bbD724D7a9C84743Af9"
+  "HelloModule#Hello": "0xEa07901e989D47D2D2B97bbD724D7a9C84743Af9",
+  "AreaCalculatorModule#AreaCalculator": "0x4231B9fa832eeFff2f473646bAe830aeCD0e558A"
 }
