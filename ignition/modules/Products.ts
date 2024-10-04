@@ -1,10 +1,10 @@
 import { buildModule } from "@nomicfoundation/hardhat-ignition/modules";
 
-const ProductModule = buildModule("ProductContractModule", (m) => {
+const tokenModule = buildModule("Web3CXIModule", (m) => {
 
-  const product = m.contract("ProductContract");
+  const token = m.contract("Web3CXI");
 
-  return { product };
+  return { token };
 });
 
-export default ProductModule;
+export default tokenModule;
