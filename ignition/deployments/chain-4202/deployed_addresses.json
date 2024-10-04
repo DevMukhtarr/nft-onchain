@@ -1,4 +1,5 @@
 {
   "ProductContractModule#ProductContract": "0x06daB8889733da7937D95d53443a80f24D30A78f",
-  "AirdropTokenModule#AirdropToken": "0x0Df47C7336f99Af7a44B543f43372bbB81b372e7"
+  "AirdropTokenModule#AirdropToken": "0x0Df47C7336f99Af7a44B543f43372bbB81b372e7",
+  "SimpleLotteryModule#SimpleLottery": "0x1Cbd347625189bed71c727704F29F2541CfEdC71"
 }

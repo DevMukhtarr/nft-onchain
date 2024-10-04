@@ -1,10 +1,10 @@
 import { buildModule } from "@nomicfoundation/hardhat-ignition/modules";
 
-const tokenModule = buildModule("AirdropTokenModule", (m) => {
+const SimpleLotteryModule = buildModule("SimpleLotteryModule", (m) => {
 
-  const token = m.contract("AirdropToken");
+  const lottery = m.contract("SimpleLottery", [2]);
 
-  return { token };
+  return { lottery };
 });
 
-export default tokenModule;
+export default SimpleLotteryModule;
