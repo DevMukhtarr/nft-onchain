@@ -1,5 +1,3 @@
 {
-  "MarketplaceNFTModule#MarketplaceNFT": "0xC2B00F74915A797DD89E10556C073b0c7bafEf00",
-  "HelloModule#Hello": "0xEa07901e989D47D2D2B97bbD724D7a9C84743Af9",
-  "OnChainNFTModule#OnChainNFT": "0x862473108b70afc86861e0cf4101010B95554184"
+  "ProductContractModule#ProductContract": "0x06daB8889733da7937D95d53443a80f24D30A78f"
 }
