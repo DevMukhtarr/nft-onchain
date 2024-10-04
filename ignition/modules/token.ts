@@ -1,8 +1,8 @@
 import { buildModule } from "@nomicfoundation/hardhat-ignition/modules";
 
-const tokenModule = buildModule("Web3CXIModule", (m) => {
+const tokenModule = buildModule("AirdropTokenModule", (m) => {
 
-  const token = m.contract("Web3CXI");
+  const token = m.contract("AirdropToken");
 
   return { token };
 });
